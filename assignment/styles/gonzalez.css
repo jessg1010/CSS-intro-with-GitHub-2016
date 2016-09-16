@@ -47,6 +47,6 @@ article {
 
   footer a:link {color: #05C1FF;}
   footer a:visited {color: #1A5D73;}
+  footer a:focus {outline-color: #AAD5E3;}
   footer a:hover {color: #2A83A1;}
-  footer a:active {color: #F5697A;}
   footer a:active {color: #F5697A;}
